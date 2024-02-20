@@ -1,6 +1,6 @@
 const products = [
   {
-    _id: '1',
+   
     name: 'Red Nike Sports shoes',
     image: '/images/shoe1.jpg',
     description:
@@ -13,7 +13,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '2',
+   
     name: 'Casual Shoe',
     image: '/images/shoe2.jpg',
     description:
@@ -26,7 +26,7 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: '3',
+  
     name: 'Nike Air Force',
     image: '/images/shoes3.jpg',
     description:
@@ -39,7 +39,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '4',
+
     name: 'Vans oldschool',
     image: '/images/shoes4.jpg',
     description:
@@ -52,7 +52,7 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: '5',
+ 
     name: 'sports',
     image: '/images/shoes5.jpg',
     description:
@@ -65,7 +65,7 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: '6',
+ 
     name: 'Airmax',
     image: '/images/shoes7.jpg',
     description:
