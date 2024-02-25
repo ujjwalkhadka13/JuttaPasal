@@ -19,8 +19,11 @@ const userSchema = new mongoose.Schema({
         type: Boolean,
         required: true,
         default: false,
-
     },
+    thriftOrders : {
+        type : Array,
+        default : []
+    }
 }, {
     timestamps: true,
 });

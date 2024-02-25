@@ -6,7 +6,6 @@ const products = [
     description:
       'Very good nike sports for running, gym or any kind of sports',
     brand: 'Nike',
-    category: 'Sports',
     price: 5000,
     countInStock: 10,
     rating: 4.5,
